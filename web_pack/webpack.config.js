@@ -28,6 +28,13 @@ module.exports = {
     plugins: [
         extractSass
     ],
-    mode: 'development'
+    mode: 'development',
     // mode: 'production'
+    devServer: {
+        host: '0.0.0.0',
+        /*no esta terminado*/
+        port: 8080,
+        inline: true,
+        contentBase: path.join(__dirname, "dist")
+    }
 }
