@@ -1,5 +1,9 @@
 header {
     h1 {
-        color: salmon;
+        color: purple;
     }
+}
+
+main {
+    @import '_extras.scss'; // _ para que no compile extras.css, que realmente no lo necesitamos
 }

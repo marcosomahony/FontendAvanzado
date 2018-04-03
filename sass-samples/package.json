@@ -5,12 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "sass" : "node-sass -w -o ./dist/css ./src/sass"
+    "sass": "node-sass -w -o ./dist/css ./src/sass"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.8.3"
+  },
+  "dependencies": {
+    "http-server": "^0.11.1"
   }
 }
