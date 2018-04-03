@@ -1,0 +1,20 @@
+{
+  "name": "FontendAvanzado",
+  "version": "1.0.0",
+  "description": "Ejercicios y ejemplos de distintos aspectos de apis de HTML, Sass, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosomahony/FontendAvanzado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosomahony/FontendAvanzado/issues"
+  },
+  "homepage": "https://github.com/marcosomahony/FontendAvanzado#readme"
+}
