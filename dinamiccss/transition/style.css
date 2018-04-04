@@ -10,11 +10,11 @@ h1 {
     text-align: center;
     /*se pueden resumir todas en transition:*/
     -webkit-transition-property: color, background;
-    transition-property: color, background;
+        transition-property: color, background;
     -webkit-transition-duration: 0.15s;
-            transition-duration: 0.15s;
+        transition-duration: 0.15s;
     -webkit-transition-timing-function: ease-in-out;
-            transition-timing-function: ease-in-out;
+        transition-timing-function: ease-in-out;
 }
 
 h1:hover {
