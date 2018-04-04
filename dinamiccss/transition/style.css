@@ -34,5 +34,5 @@ main div {
 main div:nth-of-type(1):hover~div{
     background-color: royalblue;
     transform: scale(1.015, 1.015);
-    transition-duration: 0.1s;
+    transition: all 0.1s linear;
 }
